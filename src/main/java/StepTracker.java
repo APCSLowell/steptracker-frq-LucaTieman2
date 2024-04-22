@@ -1,5 +1,17 @@
 import java.util.ArrayList;
 public class StepTracker
 {
- /* to be implemented here */
+  private int days, 
+  public StepTracker () {
+  
+  }
+  public int addDailySteps (int x) {
+    
+  }
+  public double averageSteps () {
+  
+  }
+  public int activeDays () {
+  
+  }
 } 
